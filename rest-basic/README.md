@@ -1,0 +1,1 @@
+Basic rest with springboot.
