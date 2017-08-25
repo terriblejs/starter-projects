@@ -1,4 +1,4 @@
-package org.akkan.restapi;
+package org.akkan.api;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  */
 
 @RestController
-public class StarterRestApiDependentController {
+public class ApiController {
     @RequestMapping("/")
     public String index() {
         return "Greetings from Spring Boot!";

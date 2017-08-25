@@ -1,4 +1,4 @@
-package org.akkan.restapi;
+package org.akkan.api;
 
 /**
  * Created by chethan on 8/24/17.
